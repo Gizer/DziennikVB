@@ -1,0 +1,28 @@
+c:\users\arkadiusz cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\bin\Debug\DziennikVB.exe.config
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\bin\Debug\DziennikVB.exe
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\bin\Debug\DziennikVB.pdb
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\bin\Debug\DziennikVB.xml
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.vbprojResolveAssemblyReference.cache
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Form1.resources
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Resources.resources
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.vbproj.GenerateResource.Cache
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.exe
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.xml
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.pdb
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Form2.resources
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Form3.resources
+C:\Users\Arkadiusz Cichy\documents\visual studio 2015\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Form4.resources
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\bin\Debug\DziennikVB.exe.config
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.exe
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.xml
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.pdb
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\bin\Debug\DziennikVB.exe
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\bin\Debug\DziennikVB.pdb
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\bin\Debug\DziennikVB.xml
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Form1.resources
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Form2.resources
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Form3.resources
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Form4.resources
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.Resources.resources
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.vbproj.GenerateResource.Cache
+D:\Backup\Nowy dysk\Projects\DziennikVB\DziennikVB\obj\Debug\DziennikVB.vbproj.CoreCompileInputs.cache
